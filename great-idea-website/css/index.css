@@ -64,3 +64,152 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+
+/* you need to put something here */
+
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	width: 80%;
+	margin: 10px 10%;
+}
+/* p {
+	font-size: 18px;
+	padding: 20px;
+} */
+/* h3 {
+	font-size: 20px;
+	padding: 20px;
+} */
+/* div {
+	border: 1px solid black;
+}
+section {
+	border: 1px solid red;
+} */
+header {
+	display: inline-block;
+	width: 100%;
+}
+nav {
+	display:inline-block;
+	width: 83%;
+	height: 100%;
+}
+nav a {
+	display: inline-block;
+	text-decoration: none;
+	font-size: 18px;
+	margin: 5px 25px 5px 25px;
+	padding: 25px;
+}
+.logo {
+	display: inline-block;
+}
+h1 {
+	font-size: 80px;
+}
+.center-left {
+	display: inline-block;
+	position: relative;
+	left: 155px;
+	width: 48%;
+}
+.center-right {
+	display: inline-block;
+	padding: 40px 0 80px 100px;
+	width: 48%;
+}
+button {
+	border: 1px solid darkgrey;
+	background-color: rgb(255, 255, 255);
+	width: 200px;
+	height: 50px;
+}
+.top-1 {
+	border-top: solid;
+}
+.features {
+	display: inline-block;
+	margin: 0 auto;
+	width: 49%;
+}
+.features, h3 {
+	font-size: 20px;
+	padding: 40px 0 10px 0;
+}
+.features, p {
+	font-size: 18px;
+	padding: 10px 15px 30px 0;
+}
+.about {
+	display: inline-block;
+	margin: 0 auto;
+	width: 49%;
+}
+.about, h3 {
+	font-size: 20px;
+	padding: 40px 0 10px 0;
+}
+.about, p {
+	font-size: 18px;
+	padding: 10px 15px 30px 0;
+}
+.middle-img {
+	width: 100%;
+}
+.services {
+	display: inline-block;
+	width: 33%;
+	margin: 0 auto;
+}
+.services, h3 {
+	font-size: 20px;
+	padding: 40px 0 10px 0;
+}
+.services, p {
+	font-size: 18px;
+	padding: 10px 15px 30px 0;
+}
+.product {
+	display: inline-block;
+	width: 33%;
+	margin: 0 auto;
+}
+.product, h3 {
+	font-size: 20px;
+	padding: 40px 0 10px 0;
+}
+.product, p {
+	font-size: 18px;
+	padding: 10px 15px 30px 0;
+}
+.vision {
+	display: inline-block;
+	width: 33%;
+	margin: 0 auto;
+}
+.vision, h3 {
+	font-size: 20px;
+	padding: 40px 0 10px 0;
+}
+.vision, p {
+	font-size: 18px;
+	padding: 10px 15px 30px 0;
+}
+.bottom-3 {
+	border-bottom: solid;
+}
+address {
+	display: inline-block;
+	justify-content: left;
+	width: 100%;
+	margin: 10 auto;
+	padding: 50px 0;
+}
+small {
+	display: inline-block;
+	text-align: center;
+	width: 100%;
+	margin: 10 auto;
+	padding: 50px;
+}
